@@ -1,0 +1,7 @@
+wordpress-real-estate/      ← main repo
+│
+├── wix-portfolio-site/     ← Wix project folder
+│   └── (Wix exported files here)
+├── wp-content/
+├── wp-config.php
+└── README.md
