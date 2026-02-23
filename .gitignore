@@ -1,0 +1,3 @@
+# Ignore Wix temp files
+wix-portfolio-site/*.zip
+wix-portfolio-site/*.bak
